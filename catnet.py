@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-# 01-Aug-2015, Jason Gordon, @inuk_x
 # a netcat facsimilie script from Black Hat Python exercises
 
 import sys
